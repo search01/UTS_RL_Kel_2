@@ -17,7 +17,7 @@ Reinforcement Learning (RL) adalah pendekatan Machine Learning di mana agen bela
   - **Reward:** Umpan balik dari environment setelah tindakan diambil (1 untuk kemenangan, -1 untuk kekalahan, dan 0 untuk permainan yang berlanjut).
 
 ## AlphaGo dan Reinforcement Learning
-AlphaGo adalah sistem AI yang dikembangkan oleh DeepMind untuk bermain Go, permainan papan yang jauh lebih kompleks daripada Tic-Tac-Toe. AlphaGo menggunakan pendekatan berbasis Reinforcement Learning, di mana AI belajar dari pengalaman untuk meningkatkan strategi bermainnya. Dengan menggunakan kombinasi dari Neural Networks untuk memprediksi langkah terbaik dan nilai dari posisi papan, serta MCTS untuk menjelajahi kemungkinan langkah, AlphaGo dapat mengalahkan pemain Go terbaik di dunia.
+AlphaGo adalah sistem AI yang dikembangkan oleh DeepMind untuk bermain Go, permainan papan yang jauh lebih kompleks daripada Tic-Tac-Toe. AlphaGo menggunakan pendekatan berbasis Reinforcement Learning, di mana AI belajar dari pengalaman untuk meningkatkan strategi bermainnya. Dengan menggunakan kombinasi dari Neural Networks untuk memprediksi langkah terbaik dan nilai dari posisi papan, serta MCTS untuk mempelajari kemungkinan langkah.
 
 ## Monte Carlo Tree Search (MCTS)
 MCTS adalah algoritma yang digunakan untuk membuat keputusan dalam permainan dengan banyak kemungkinan langkah. MCTS melakukan simulasi acak dari permainan yang tersisa untuk mengevaluasi langkah-langkah potensial dan membangun pohon keputusan. MCTS terdiri dari empat langkah utama:
