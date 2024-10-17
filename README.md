@@ -34,10 +34,10 @@ Game ini menerapkan konsep Reinforcement Learning dengan memanfaatkan MCTS untuk
 1. Setelah permainan dimulai, user dapat mengklik pada papan untuk menempatkan simbol (X).
 2. AI akan secara otomatis membuat langkah berikutnya.
 3. Permainan berakhir ketika salah satu pemain berhasil menyusun tiga simbol dalam satu garis (horizontal, vertikal, atau diagonal).
-(https://github.com/search01/UTS_RL_Kel_2/issues/2#issue-2595352428)
+![Screenshot 2024-10-18 000230](https://github.com/user-attachments/assets/237d5890-d8b3-4b5a-ae61-52bd3e49db25)
 
 ## Instalasi
-Untuk menjalankan proyek ini, Perlu menginstal beberapa dependensi Python. Pastikan Python versi 3.x telah terinstal di sistem. Berikut adalah dependensi yang diperlukan: 
+Untuk menjalankan proyek ini, perlu menginstal beberapa dependensi Python. Menggunakan Python versi 3.x pada sistem. Berikut adalah dependensi yang diperlukan: 
 - **NumPy** 
 - **Matplotlib** 
 - **TensorFlow**
