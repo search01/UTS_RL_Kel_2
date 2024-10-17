@@ -4,7 +4,7 @@
 - Rosalia Dina Marina Sipahutar (G1A021017)
 - Muhammad Fachrurozi (G1A021018)
 
-[]assets/Tic Tac Toe.mp4
+[assets/Tic Tac Toe.mp4](https://github.com/search01/UTS_RL_Kel_2/blob/main/assets/Tic%20Tac%20Toe.mp4)
 Repositori ini berisi kode Python  dalam simulasi permainan tic tac toe sederhana dengan implementasi AlphaGo, Reinforcement Learning (RL), dan Monte Carlo Tree Search (MCTS)
 
 ## Reinforcement Learning
