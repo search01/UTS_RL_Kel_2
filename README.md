@@ -34,6 +34,7 @@ Game ini menerapkan konsep Reinforcement Learning dengan memanfaatkan MCTS untuk
 1. Setelah permainan dimulai, user dapat mengklik pada papan untuk menempatkan simbol (X).
 2. AI akan secara otomatis membuat langkah berikutnya.
 3. Permainan berakhir ketika salah satu pemain berhasil menyusun tiga simbol dalam satu garis (horizontal, vertikal, atau diagonal).
+
 ![Screenshot 2024-10-18 000230](https://github.com/user-attachments/assets/237d5890-d8b3-4b5a-ae61-52bd3e49db25)
 
 ## Instalasi
