@@ -4,13 +4,8 @@
 - Rosalia Dina Marina Sipahutar (G1A021017)
 - Muhammad Fachrurozi (G1A021018)
 
-
+[]assets/Tic Tac Toe.mp4
 Repositori ini berisi kode Python  dalam simulasi permainan tic tac toe sederhana dengan implementasi AlphaGo, Reinforcement Learning (RL), dan Monte Carlo Tree Search (MCTS)
-Reinforcement Learning:
-1. **Q-Learning**
-2. **TD(λ)** (Temporal Difference dengan Traces Eligibilitas)
-
-Simulasi ini bertujuan untuk melatih agen agar memaksimalkan skornya dalam lingkungan grid dengan menghindari lawan dan menembak bola ke keranjang.
 
 ## Reinforcement Learning
 Reinforcement Learning (RL) adalah pendekatan Machine Learning di mana agen belajar untuk membuat keputusan dengan cara mencoba berbagai tindakan dan menerima umpan balik dalam bentuk penghargaan atau hukuman. AlphaGo mengintegrasikan beberapa konsep dari RL:
