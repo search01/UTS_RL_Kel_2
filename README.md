@@ -4,6 +4,8 @@
 - Rosalia Dina Marina Sipahutar (G1A021017)
 - Muhammad Fachrurozi (G1A021018)
 
+[]https://github.com/user-attachments/assets/0a9a97a3-fa04-4e7b-bbac-a66440d86c68
+
 Repositori ini berisi kode Python  dalam simulasi permainan tic tac toe sederhana dengan implementasi AlphaGo, Reinforcement Learning (RL), dan Monte Carlo Tree Search (MCTS)
 
 ## Reinforcement Learning
@@ -32,6 +34,7 @@ Game ini menerapkan konsep Reinforcement Learning dengan memanfaatkan MCTS untuk
 1. Setelah permainan dimulai, user dapat mengklik pada papan untuk menempatkan simbol (X).
 2. AI akan secara otomatis membuat langkah berikutnya.
 3. Permainan berakhir ketika salah satu pemain berhasil menyusun tiga simbol dalam satu garis (horizontal, vertikal, atau diagonal).
+
 
 ## Instalasi
 Untuk menjalankan proyek ini, Perlu menginstal beberapa dependensi Python. Pastikan Python versi 3.x telah terinstal di sistem. Berikut adalah dependensi yang diperlukan: 
